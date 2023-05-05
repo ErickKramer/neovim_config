@@ -1,0 +1,28 @@
+{
+  "dictionaries": [
+    "spanish",
+    "ruby",
+    "corp-terms",
+    "fonts"
+  ],
+  "language": "en",
+  "flagWords": [
+    "hte"
+  ],
+  "words": [
+    "mkdirp",
+    "tsmerge",
+    "githubusercontent",
+    "streetsidesoftware",
+    "vsmarketplacebadge",
+    "visualstudio",
+    "lazypath",
+    "nvim",
+    "calib"
+  ],
+  "version": "0.2",
+  "ignorePaths": [
+    "node_modules/**",
+    ".git/**"
+  ]
+}

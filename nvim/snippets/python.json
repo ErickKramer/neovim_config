@@ -1,0 +1,39 @@
+{
+  "HEADER": {
+    "prefix": "header",
+    "body": [
+      "#!/usr/bin/env python3",
+      "# ****************************************************************************",
+      "# $TM_FILENAME",
+      "# Created on $CURRENT_DAY_NAME_SHORT $CURRENT_MONTH_NAME_SHORT $CURRENT_DATE $CURRENT_YEAR",
+      "# Author:   Erick Kramer",
+      "#",
+      "# Copyright $CURRENT_YEAR.",
+      "# ****************************************************************************"
+    ],
+    "description" : "Header"
+  },
+  "ifmaintest": {
+    "prefix": "ifmt",
+    "body": [
+      "if __name__ == '__main__':",
+      "  pytest.main([__file__, '-v', '-s'])"
+    ],
+    "description": "Test"
+  },
+  "import_ipdb_breakpoint": {
+    "prefix": "iipb",
+    "body": [
+      "import ipdb",
+      "ipdb.set_trace()"
+    ],
+    "description": "Import ipdb and add a breakpoint for ipdb"
+  },
+  "ipdb_breakpoint": {
+    "prefix": "ipb",
+    "body": [
+      "ipdb.set_trace()"
+    ],
+    "description": "Add a breakpoint for ipdb"
+  }
+}

@@ -1,0 +1,2 @@
+-- Remap format keymap to uncrustify
+-- vim.keymap.set('n', '<leader>f', ":Uncrustify<CR>")
