@@ -1,0 +1,33 @@
+# workspace
+compile_commands.json
+build/
+install/
+log/
+logs/
+node_modules/
+
+# vscode
+.vscode/
+
+# vim
+*.swp
+*.swo
+
+# java
+.java/
+
+# python
+__cache__
+__pycache__
+*.pyc
+*.ipynb
+py_env/
+
+# git
+.git/
+
+# C++
+.cache/
+
+# Rust
+.cargo/
