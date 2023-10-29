@@ -2,13 +2,30 @@
 
 Neovim setup for Ubuntu 22.04.
 
-This configuration can be used to develop ROS components in
-
+This configuration can be used to develop in:
 - C++
 - Python
 - Go
 - Rust
 - ROS
+
+## Show case
+
+#### Starting Page
+
+![](./assets/neovim_alpha.png)
+
+#### Telescope
+
+![](./assets/neovim_telescope.png)
+
+#### DAP
+
+![](./assets/neovim_dap.png)
+
+#### Diagnostics
+
+![](./assets/neovim_diagnostics.png)
 
 ## Installation
 
