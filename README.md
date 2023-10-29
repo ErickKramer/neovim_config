@@ -27,6 +27,10 @@ This configuration can be used to develop in:
 
 ![](./assets/neovim_diagnostics.png)
 
+#### Toggleterm - Lazygit
+
+![](./assets/neovim_lazygit.png)
+
 ## Installation
 
 I have a provided a config script to speed up the process of configuring Neovim for you.
