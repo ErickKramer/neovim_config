@@ -70,18 +70,14 @@ The first time you open Neovim, it will install all the Treesitter configuration
 
 - Open file tree `:NvimTreeToggle`
 - Open current file in tree `:NvimTreeFindFile`
-
 - Open search files `:Telescope find_files`
 - Grep local files `:Telescope live_grep`
 - Open keymaps `:Telescope keymaps`
 - Open old files `:Telescope oldfiles`
-
 - Open multi-file search and replace `:Spectre`
-
 - Open diagnostics `:TroubleToggle`
 - Open diagnostics for current file `:TroubleToggle document_diagnostics`
 - Open diagnostics for whole workspace `:TroubleToggle workspace_diagnostics`
-
 - Open Git `:Git`
 - Compare changes `:DiffviewOpen <BRANCH1>..<BRANCH2>`
 
